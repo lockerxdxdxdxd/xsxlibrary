@@ -780,7 +780,7 @@ function library:Introduction()
     ccxz.BackgroundTransparency = 1.000
     ccxz.Size = UDim2.new(0, 80, 0, 21)
     ccxz.Font = Enum.Font.Code
-    ccxz.Text = " join bit.ly/constellar"
+    ccxz.Text = " bit.ly/constellar"
     ccxz.TextColor3 = Color3.fromRGB(124, 124, 124)
     ccxz.TextSize = 10.000
     ccxz.TextTransparency = 1
